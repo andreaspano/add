@@ -6,8 +6,8 @@ Authors@R:
            family = "Spano",
            role = c("aut", "cre"),
            email = "andrea.spano@quantide.com")
-Description: add a number to a first number 
-License: use_gpl3_license()
+Description: Add a second number to a first number. 
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)

@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/andreaspano/add/workflows/R-CMD-check/badge.svg)](https://github.com/andreaspano/add/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/andreaspano/add/branch/master/graph/badge.svg)](https://codecov.io/gh/andreaspano/add?branch=master)
 <!-- badges: end -->
 
 The goal of add is to …

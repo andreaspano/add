@@ -2,3 +2,5 @@
 ^\.github$
 ^README\.Rmd$
 ^codecov\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$

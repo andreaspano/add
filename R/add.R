@@ -3,7 +3,7 @@
 #' @param y numeric
 #' @return numeric 
 add <- function(x, y) {
-    x+y*1
+    x+y
 }
 
 
